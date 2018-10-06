@@ -3,7 +3,7 @@
 
 
 
-# Unity-Parallel-Framework
+# Unity-Parallel-Component-Framework
 
 A Unity framework to allow parallel processing of independent system components.
 Used to increase performance when using multiple components that require heavy per-frame computation.
